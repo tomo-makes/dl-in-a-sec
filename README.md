@@ -1,8 +1,15 @@
 # 図解速習DEEP LEARNING
 
-- [各章本文のリンク一覧](https://github.com/tomo-makes/dl-in-a-sec/blob/master/resources.md)
+こちらは書籍『図解速習DEEP LEARNING』の公式サポートサイトです。一部準備中ですが、書籍と併用いただけるよう、以下のコンテンツを提供予定です。
 
-## 3章 さまざまな事例を実践してみよう
+- [各章本文のリンク一覧](https://github.com/tomo-makes/dl-in-a-sec/blob/master/resources.md)
+- 3章の各Colaboratoryノートブックへのリンク（以下に記載）
+- 正誤表
+
+
+## Colaboratoryノートブックへのリンク
+
+以下それぞれのリンクから、各Colaboratoryノートブックが直接起動します。 `.ipynb` ファイル自体は、本リポジトリの `notebooks` 以下にあります。
 
 ### 数値・表形式のデータを使った機械学習を試す
 
@@ -48,4 +55,3 @@
 ### 深層学習を使ったアプリのPrototyping
 
 - ノートブックなし
-
