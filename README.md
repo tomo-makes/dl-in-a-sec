@@ -1,6 +1,6 @@
 # 図解速習DEEP LEARNING
 
-こちらは書籍『図解速習DEEP LEARNING』の公式サポートサイトです。一部準備中ですが、書籍と併用いただけるよう、以下のコンテンツを提供予定です。
+こちらは書籍『図解速習DEEP LEARNING』の公式サポートサイトです。書籍と併用いただけるよう、以下のコンテンツを提供します。
 
 - [各章本文のリンク一覧](https://github.com/tomo-makes/dl-in-a-sec/blob/master/resources.md)
 - 3章の各Colaboratoryノートブックへのリンク（以下に記載）
@@ -10,6 +10,8 @@
 ## Colaboratoryノートブックへのリンク
 
 以下それぞれのリンクから、各Colaboratoryノートブックが直接起動します。 `.ipynb` ファイル自体は、本リポジトリの `notebooks` 以下にあります。
+
+<font color="red">現在、紙/電子書籍中のリンク表記に一部誤りがあります。こちらのリンクからノートブックをお開きください。</font>
 
 ### 数値・表形式のデータを使った機械学習を試す
 
@@ -51,6 +53,9 @@
 - [姿勢制御、着陸を学習する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/RL_LunarLander_ja.ipynb)
 - [ブロック崩しを学習する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/RL_BreakOut_ja.ipynb)
 - [自動運転を学習する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/RL_Donkey_ja.ipynb)
+	- [tawnkramer/sdsandbox at donkey](https://github.com/tawnkramer/sdsandbox/tree/donkey)のソースから、Mac用/ Windows用の実行ファイルをビルドしたものです
+		- [Donkey Simulator(Mac OSX版)のダウンロード](https://github.com/tomo-makes/dl-in-a-sec/blob/master/binaries/donkeysim_mac.zip)
+		- [Donkey Simulator(Windows版)のダウンロード](https://github.com/tomo-makes/dl-in-a-sec/blob/master/binaries/donkeysim_win.zip)
 
 ### 深層学習を使ったアプリのPrototyping
 
