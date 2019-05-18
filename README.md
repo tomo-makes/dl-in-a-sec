@@ -68,3 +68,4 @@
 |頁               |誤  |正  |
 |:--              |:-- |:-- |
 |3章 P.119 L.6  |https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/TF_Hub_Compare_GAN_ja.ipynb |https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Compare_GAN_ja.ipynb |
+|3章 P.122 L.6  |https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/TF_Hub_BigGAN_Demo_ja.ipynb |https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/BigGAN_TF_Hub_Demo_ja.ipynb |
