@@ -60,3 +60,11 @@
 ### 深層学習を使ったアプリのPrototyping
 
 - ノートブックなし
+
+### 正誤表
+
+#### 第１刷
+
+|頁               |誤  |正  |
+|:--              |:-- |:-- |
+|3章 P.119 L.6  |https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/TF_Hub_Compare_GAN_ja.ipynb |https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Compare_GAN_ja.ipynb |
