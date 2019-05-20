@@ -27,7 +27,7 @@
 - [さまざまな学習済みGANを比較する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Compare_GAN_ja.ipynb)
 - [CycleGANで画像の変換・生成を行う](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/CycleGAN_ja.ipynb)
 - [BigGANで高精細画像を生成する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/BigGAN_TF_Hub_Demo_ja.ipynb)
-
+	- [BigGANEx_ja](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/BigGANEx_ja.ipynb)
 
 ### 自然言語を扱う深層学習を試す
 
