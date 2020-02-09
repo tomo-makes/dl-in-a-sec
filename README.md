@@ -49,7 +49,8 @@
 - [E-Z NSynthでまだ聴いたことのない楽器の音を作る](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/NSynth_Colab_ja.ipynb)
 - [MusicVAEで作曲する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/MusicVAE_ja.ipynb)
 - [PerformanceRNNで即興演奏を行う](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Performance_RNN_ja.ipynb)
-- [録音からピアノ譜面を起こす](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Onsets_and_Frames_ja.ipynb)
+- ~~[録音からピアノ譜面を起こす](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Onsets_and_Frames_ja.ipynb)~~
+	- ブラウザ上で [Piano Scribe](https://piano-scribe.glitch.me/) を試せます
 
 ### 強化学習系を試す
 
