@@ -21,7 +21,9 @@
 
 - [ファッション画像を分類する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Basic_Classification_ja.ipynb)
 - [転移学習で画像を分類する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Transfer_Learning_ja.ipynb)
-- [DeepDreamで画像スタイルを変換する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Deepdream_ja.ipynb)
+- ~~[DeepDreamで画像スタイルを変換する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Deepdream_ja.ipynb)~~
+	- 現在上記が動作しないため、TensorFlow公式より提供された、こちらをお試しください [deepdream.ipynb](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb)
+	- 参考 [DeepDream  |  TensorFlow Core](https://www.tensorflow.org/tutorials/generative/deepdream)
 - [動画のコンテキスト認識を行う](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/TF_Hub_Action_Recognition_ja.ipynb)
 - [DELFで特定物体認識を試す](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/TF_Hub_Delf_module_ja.ipynb)
 - [さまざまな学習済みGANを比較する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Compare_GAN_ja.ipynb)
@@ -34,7 +36,9 @@
 - [映画情報サイトにあるレビューを識別する（その1）](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Basic_Text_Classification_ja.ipynb)
 - [映画情報サイトにあるレビューを識別する（その2）](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Text_classification_with_TF_Hub_ja.ipynb)
 - [Universal Encoderで話題が近い文を見分ける](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/TF_Hub_Universal_Encoder_ja.ipynb)
-- [文章を生成する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Char_RNN_ja.ipynb)
+- ~~[文章を生成する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Char_RNN_ja.ipynb)~~
+	- 現在上記が動作しないため、TensorFlow公式より提供された、こちらをお試しください [text_generation.ipynb](https://colab.research.google.com/github/tensorflow/docs-l10n/blob/master/site/ja/tutorials/text/text_generation.ipynb)
+	- 参考 [RNN によるテキスト生成  |  TensorFlow Core](https://www.tensorflow.org/tutorials/text/text_generation)
 - [スペイン語から英語へのニューラル機械翻訳を作る](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/NMT_with_Attention_ja.ipynb)
 - [画像のキャプションを生成する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Image_Captioning_ja.ipynb)
 
