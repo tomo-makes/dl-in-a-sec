@@ -27,7 +27,9 @@
 - [動画のコンテキスト認識を行う](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/TF_Hub_Action_Recognition_ja.ipynb)
 - [DELFで特定物体認識を試す](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/TF_Hub_Delf_module_ja.ipynb)
 - [さまざまな学習済みGANを比較する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/Compare_GAN_ja.ipynb)
-- [CycleGANで画像の変換・生成を行う](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/CycleGAN_ja.ipynb)
+- ~~[CycleGANで画像の変換・生成を行う](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/CycleGAN_ja.ipynb)~~
+	- 現在上記が動作しないため、TensorFlow公式より提供された、こちらをお試しください [cyclegan.ipynb](https://www.tensorflow.org/tutorials/generative/cyclegan)
+	- 参考 [CycleGAN  |  TensorFlow Core](https://www.tensorflow.org/tutorials/generative/cyclegan)
 - [BigGANで高精細画像を生成する](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/BigGAN_TF_Hub_Demo_ja.ipynb)
 	- [BigGANEx_ja](https://colab.research.google.com/github/tomo-makes/dl-in-a-sec/blob/master/notebooks/BigGANEx_ja.ipynb)
 
